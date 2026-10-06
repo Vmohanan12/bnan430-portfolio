@@ -7,3 +7,5 @@ Account Profitability and Service Tiers, Analyze Southwest Office Solutions’ c
 
 BNAN430, Completed sept28,2026, https://public.tableau.com/views/Datacampcertificate/PowerBI1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+BNAN430, Completed on Oct5, 2026, https://public.tableau.com/views/Datacampcertificate/PowerBI2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+In Flex 4 I calculated the Profit Margin Ratio by dividing Total Profit by Total Sales. I would make it a measure because it can change when Anita or Marcus filters the data by year or other categories. Keeping it in the Power BI model lets them see the calculation update automatically instead of having to recalculate it in the workbook.
