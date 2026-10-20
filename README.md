@@ -16,5 +16,5 @@ At Southwest I would use Excel for quick calculations and data cleaning like i d
 
 
 BNAN430, Completed on Oct 19th, 2026, Bear Down Bank Customer and cards
-https://public.tableau.com/views/BearDownBankCustomerandcards/DesignJustification?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/vasu.mohanan/viz/BearDownBankCustomerandcards/DesignJustification
 If i were to do this again i would keep more information while creating the graphs so it makes it easier in the future which chart / visual I pick when showing the information. 
