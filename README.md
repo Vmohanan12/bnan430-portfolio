@@ -18,3 +18,6 @@ At Southwest I would use Excel for quick calculations and data cleaning like i d
 BNAN430, Completed on Oct 19th, 2026, Bear Down Bank Customer and cards
 https://public.tableau.com/app/profile/vasu.mohanan/viz/BearDownBankCustomerandcards/DesignJustification
 If i were to do this again i would keep more information while creating the graphs so it makes it easier in the future which chart / visual I pick when showing the information. 
+
+
+Advancing in Excel & Tableau – Part 4: Wildcat Rewards Card Analysis — Which customer group should Bear Down Bank target for its first Wildcat Rewards credit card offer? https://public.tableau.com/app/profile/vasu.mohanan/viz/CardDetailscreditdebitcardprofilecleaned/ExploratoryDashboard?publish=yes If I completed this analysis again, I would explore additional customer segments to identify more targeted pilot opportunities.
