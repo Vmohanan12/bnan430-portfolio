@@ -21,3 +21,15 @@ If i were to do this again i would keep more information while creating the grap
 
 
 Advancing in Excel & Tableau – Part 4: Wildcat Rewards Card Analysis — Which customer group should Bear Down Bank target for its first Wildcat Rewards credit card offer? https://public.tableau.com/app/profile/vasu.mohanan/viz/CardDetailscreditdebitcardprofilecleaned/ExploratoryDashboard?publish=yes If I completed this analysis again, I would explore additional customer segments to identify more targeted pilot opportunities.
+
+
+Adobe Express – Data Storytelling (November 2, 2026) Client: Bear Down Bank, Executive: Jordan Ellis, VP of Card Growth, Recommendation: Launch the first Wildcat Rewards credit card pilot in Texas. I created a one-page Adobe Express report recommending Texas because it has 68 eligible customers and a 42.8% eligibility rate, compared with 20.4% overall.
+
+Project Links:
+https://github.com/Vmohanan12/bnan430-portfolio/blob/main/adobe/mohanan-data-storytelling.pdf
+https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:9d5f00d6-d900-40bc-b33f-82c25ae8b0f3?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+https://github.com/Vmohanan12/bnan430-portfolio/blob/main/adobe/README.md
+
+Design Justification: I used a horizontal bar chart to compare state eligibility rates and highlighted Texas to make the recommendation clear. I removed unrelated visuals from my earlier Tableau dashboard to focus on eligible customer counts and qualification rates.
+
+Adobe Training: Completed November 2, 2026.
