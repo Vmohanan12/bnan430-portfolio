@@ -33,3 +33,13 @@ https://github.com/Vmohanan12/bnan430-portfolio/blob/main/adobe/README.md
 Design Justification: I used a horizontal bar chart to compare state eligibility rates and highlighted Texas to make the recommendation clear. I removed unrelated visuals from my earlier Tableau dashboard to focus on eligible customer counts and qualification rates.
 
 Adobe Training: Completed November 2, 2026.
+
+
+Adobe Express – Wildcat Rewards Product Pitch (November 2026) Client: Bear Down Bank, Executive: Jordan Ellis, VP of Card Growth, Consulting Brand: Mohanan Analytics
+Recommendation: Approve a six-week Wildcat Rewards credit card pilot in Texas. I created a six-slide Adobe Express pitch deck proposing a targeted pilot in Texas. My previous analysis identified 68 eligible Texas customers with a 42.8% eligibility rate, compared with 20.4% overall. The presentation explains the business opportunity, pilot approach, supporting data, six-week timeline, and final recommendation.
+Project Links: 
+https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:c1d7965e-8393-4e55-a606-74b9f62c6805?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+https://github.com/Vmohanan12/bnan430-portfolio/blob/main/adobe/Mohanan%20Analytics%20%E2%80%93%20Wildcat%20Rewards%20Texas%20Pilot%20Pitch.pdf
+Toughest Objection: The biggest concern is whether 68 eligible customers are enough to justify a pilot. I addressed this by recommending a limited initial launch to evaluate customer response before considering expansion.
+AI Use: I used ChatGPT to help organize the presentation, brainstorm the slide wording, and explore possible visual layouts. The supporting data and charts came from my previous coursework.
+Adobe Training: Training completed: Nov 16th, 2026.
